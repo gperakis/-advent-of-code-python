@@ -1,8 +1,10 @@
 # Advent of Code in Python
 
-This repository contains my solutions for Advent of Code problems. 
+This repository contains my solutions for Advent of Code programming puzzles. 
 
-All solutions are implemented in Python.
+More info about `Advent of Code` may be found here: https://adventofcode.com/2021/about
+
+All solutions are implemented in **Python**.
 
 To run a solution use the `python -m` approach like the following 
 
