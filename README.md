@@ -22,6 +22,11 @@ $ python -m day1
     1: `5.14 ms ± 55.6 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)`
   - Part
     2: `14.1 ms ± 327 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)`
+- **Day 5**
+  - Part
+    1: `51.1 ms ± 3.49 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)`
+  - Part
+    2: `97.2 ms ± 4.56 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)`
 
 ## License
 
